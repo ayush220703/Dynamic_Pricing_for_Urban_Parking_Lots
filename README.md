@@ -53,14 +53,7 @@ The system adjusts prices dynamically based on occupancy, queue, vehicle type, s
 |  Visualization (Bokeh) |
 +---------------------+
 
-| Layer                | Technology          |
-| -------------------- | ------------------- |
-| Data Processing      | Python, Pandas      |
-| Math & Modeling      | Numpy               |
-| Geo-Calculations     | Geopy               |
-| Real-Time Simulation | Pathway (planned)   |
-| Visualization        | Bokeh               |
-| Deployment (future)  | Pathway / Streamlit |
+---
 
 ## ⚙️ Tech Stack
 
