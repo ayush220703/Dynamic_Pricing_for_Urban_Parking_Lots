@@ -25,7 +25,7 @@ The system adjusts prices dynamically based on occupancy, queue, vehicle type, s
 
 ## 🧱 Architecture Overview
 
-```plaintext
+```
 +------------------+
 |  CSV Input Data  |  <--- Historical + real-time simulation data
 +------------------+
